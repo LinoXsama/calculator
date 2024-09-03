@@ -11,6 +11,9 @@
    padding: 20px;
    font-size: 5rem;
    text-align: left;
+   border: none;
+   color: white;
+   background-color: hsl(0, 0%, 20%);
 }
 
 #keys {

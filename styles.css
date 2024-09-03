@@ -6,6 +6,13 @@
    overflow: hidden;
 }
 
+#display {
+   width: 100%;
+   padding: 20px;
+   font-size: 5rem;
+   text-align: left;
+}
+
 #keys {
    display: grid;
    grid-template-columns: repeat(4, 1fr);

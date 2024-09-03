@@ -41,3 +41,7 @@ button {
    color: white;
    font-size: 3rem;
 }
+
+button:hover {
+   background-color: hsl(0, 0%, 40%);
+}
